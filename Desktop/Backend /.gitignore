@@ -36,3 +36,5 @@ coverage/
 storybook-static/
 # Misc
 *.lock
+echo ".aws/" >> .gitignore
+echo "*.log" >> .gitignore
